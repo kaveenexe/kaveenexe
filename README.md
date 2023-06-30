@@ -42,6 +42,6 @@
 </div>
 <br>
 
-![snake gif](https://github.com/kaveenexe/kaveenexe/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/kaveenexe/kaveenexe/blob/output/github-contribution-grid-snake.svg)
 
 <h6>Visit my old <a href="https://github.com/kaveendev">Github</a> Account</h6>
