@@ -36,9 +36,9 @@
 
 ### My Github Stats
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaveenexe&show_icons=true&locale=en&layout=compact" alt="kaveenexe" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaveenexe&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="kaveenexe" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaveenexe&show_icons=true&locale=en" alt="kaveenexe" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaveenexe&show_icons=true&locale=en&theme=chartreuse-dark" alt="kaveenexe" /></p>
 </div>
 <br>
 
