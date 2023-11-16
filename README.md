@@ -37,6 +37,8 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaveenexe&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="kaveenexe" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaveenexe&show_icons=true&locale=en&theme=chartreuse-dark" alt="kaveenexe" /></p>
+  <br>
+  <p><img align="left" scr="https://github-readme-streak-stats.herokuapp.com/?user=kaveenexe&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" /></p>
 </div>
 <br>
 
