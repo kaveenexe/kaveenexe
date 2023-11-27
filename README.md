@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaveen_uththara" target="blank"><img src="https://img.shields.io/twitter/follow/kaveen_uththara?logo=twitter&style=for-the-badge" alt="kaveen_uththara" /></a> </p>
 
-- 🔭 I’m currently working on **MERN and Flutter**
+- 🔭 I’m currently Freelancing and **Open to Work**
 
 - 🌱 I’m currently learning **Flutter**
 
