@@ -11,9 +11,7 @@
 
 - 🔭 I’m currently Freelancing and **Open to Work**
 
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **MERN, Flutter**
+- 🌱 I’m currently learning about **LLM**
 
 - 📫 How to reach me **kaveenuththara@gmail.com**
 <br>
