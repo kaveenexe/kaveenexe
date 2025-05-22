@@ -17,12 +17,16 @@
 
 <br>
 
-I'm a passionate Full-Stack Software Engineer currently freelancing and pursuing my undergraduate studies at SLIIT. My current focus is on a challenging NestJS + React project leveraging **monorepo** and **multitenant architectures**. I thrive on creative problem-solving, building tech for real-world applications, and exploring the frontiers of AI and Large Language Models.
+I'm a passionate Full-Stack Software Engineer, currently freelancing and pursuing my degree at SLIIT. I'm focused on a NestJS + React project using **monorepo** and **multitenant architectures**. while exploring the frontiers of AI and Large Language Models.
 
-- 🔭 I’m currently immersed in a complex **NestJS + React** project and always **open to new freelance opportunities**.
-- 🌱 I’m deepening my expertise in **AI/LLM integration**, particularly with **LangChain, Ollama (Mistral, mBART)**, and developing applications like **Sinhala-English translation models** and **intelligent chatbots**.
+- 🔭 I’m currently **NestJS + React** project and always **open to new freelance opportunities**.
+  
+- 🌱 Building with **AI/LLM integration**, particularly with **LangChain, Ollama**, and developing applications like **Sinhala-English translation models** and **intelligent chatbots**.
+  
 - 💬 Ask me about **Full-Stack Development (React, NestJS, Flutter), Mobile App Development (Kotlin, Flutter), Cloud & DevOps, or AI/LLM applications**.
+  
 - 📫 How to reach me: **kaveenuththara@gmail.com**
+  
 - 💡 My approach: I believe in **Gamified Thinking** to tackle complex problems and enjoy **Worldbuilding** through code, turning abstract ideas into tangible, expressive digital solutions.
 
 <br>
