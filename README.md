@@ -1,99 +1,89 @@
-![Masterhead](https://i.postimg.cc/8P6D5MXy/Github-Banner.png)
-
-<h1 align="center">Hi there, I'm Kaveen Uththara 👋</h1>
-
-<h3 align="center">Full-Stack Software Engineer | SLIIT Undergraduate | AI & LLM Enthusiast</h3>
-
-<br>
-
 <p align="center">
-  <img align="center" width="500" src="https://i.postimg.cc/CL71KXV9/54e37d8074ebcde1d96c77d7b2a7f310-607481371.gif" alt="Coding.gif">
+  <img src="https://i.postimg.cc/8P6D5MXy/Github-Banner.png" alt="Kaveen Uththara Banner"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaveenexe&label=Profile%20Views&color=0e75b6&style=flat-square" alt="kaveenexe_profile_views" />
-  <a href="https://twitter.com/kaveen_uththara" target="_blank"><img src="https://img.shields.io/twitter/follow/kaveen_uththara?logo=twitter&style=for-the-badge&color=blue&labelColor=555555" alt="kaveen_uththara_twitter" /></a>
-</p>
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkaveenexe%2Fkaveenexe&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+<br>
+  <br>
+  <a href="https://www.linkedin.com/in/kaveenuththara/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username kaveenuththara" /></a>
+<a href="mailto:kaveenuththara@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of me" /></a>
+  <a href="https://twitter.com/Kaveen_Uththara"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Kaveen_Uththara" ></a>
+</div>
+<br>
+<i>Building intelligent applications, one line of code at a time.</i>
+<br>
+👋 Hi, I'm Kaveen, a Full-Stack Software Engineer and SLIIT Undergraduate with a deep passion for architecting complex systems and exploring the frontiers of AI.
+
+✍️ As a freelancer, I specialize in bringing ambitious ideas to life. I'm currently the lead developer on a complex project using `NestJS` and `React`, built on robust `monorepo` and `multitenant` architectures.
+
+🎯 I partner with clients to deliver high-quality, scalable, and maintainable software solutions. If you're looking for a developer who understands both the big picture and the finest details, let's talk. You can reach me at `kaveenuththara@gmail.com`.
+
+💡 My philosophy is rooted in **Gamified Thinking** and **Worldbuilding**. I approach complex challenges like a game, breaking them down into solvable quests, and I build software not just as a tool, but as a complete, logical world for users to interact with. This creative-yet-structured approach allows me to build unique, real-world applications, especially in the AI/LLM space where I've developed **Sinhala-English translation models** and intelligent chatbots.
+
+🤝 I'm always open to discussing new projects, innovative ideas, or collaborating on open-source.
 
 <br>
 
-I'm a passionate Full-Stack Software Engineer, currently freelancing and pursuing my degree at SLIIT. I'm focused on a NestJS + React project using **monorepo** and **multitenant architectures**. while exploring the frontiers of AI and Large Language Models.
+<!-- <details>
+<summary><b>🏆 Achievements & Milestones</b></summary>
+<br>
 
-- 🔭 I’m currently **NestJS + React** project and always **open to new freelance opportunities**.
-  
-- 🌱 Building with **AI/LLM integration**, particularly with **LangChain, Ollama**, and developing applications like **Sinhala-English translation models** and **intelligent chatbots**.
-  
-- 💬 Ask me about **Full-Stack Development (React, NestJS, Flutter), Mobile App Development (Kotlin, Flutter), Cloud & DevOps, or AI/LLM applications**.
-  
-- 📫 How to reach me: **kaveenuththara@gmail.com**
-  
-- 💡 My approach: I believe in **Gamified Thinking** to tackle complex problems and enjoy **Worldbuilding** through code, turning abstract ideas into tangible, expressive digital solutions.
+Here's a little more about my journey and accomplishments.
+
+### Competition Zone
+- 🥇 **Example:** 1st Place in the National AI Innovation Challenge '24 for our Sinhala-English translation model.
+- 🥈 **Example:** Finalist in Ingenious Hackathon 5.0 with a Flutter-based mobile solution.
+- 🥉 **Example:** Top 10 in the SLIIT Codefest 2023.
+
+### GitHub & Open Source
+- 🌟 **Example:** My project [Project Name] was featured in the Awesome-NestJS list.
+- 🚀 **Example:** Contributed a key performance optimization to [Open Source Project].
+- 💬 **Example:** Actively maintaining [Your Project] with over X stars and Y forks.
+
+### Proud Zone
+- 🎓 **Example:** Awarded a scholarship for academic excellence at SLIIT.
+- 👨‍💻 **Example:** Successfully designed and deployed a multi-tenant SaaS application from scratch for a freelance client.
+- 🤖 **Example:** Built and trained a custom LLM using Ollama and LangChain that outperformed baseline models in a specific task.
+
+</details> -->
 
 <br>
 
-<h3 align="left">🚀 My Tech Stack & Expertise:</h3>
+### 🚀 Featured Projects
 
-**Full-Stack Development:**
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="aspnetcore" width="40" height="40"/></a>
-</p>
-
-**Mobile App Development:**
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-  <a href="https://developer.android.com/kotlin" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-</p>
-
-**Databases:**
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
-</p>
-
-**Cloud & DevOps:**
-<p align="left">
-  <a href="https://aws.amazon.com/lightsail/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/aws-lightsail.svg" alt="aws lightsail" width="40" height="40"/></a>
-  <a href="https://cloud.google.com/run" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud_run/google_cloud_run-icon.svg" alt="google cloud run" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/githubactions/githubactions-icon.svg" alt="github actions" width="40" height="40"/></a>
-</p>
-
-**AI/LLM Integration:**
-<p align="left">
-  <a href="https://ollama.com/" target="_blank" rel="noreferrer"><img src="https://ollama.com/public/ollama.png" alt="ollama" width="40" height="40"/></a>
-  <a href="https://python.langchain.com/" target="_blank" rel="noreferrer"><img src="https://gblobscdn.gitbook.com/spaces%2F-LqY4LXGflsY7n8yASub%2Favatar-1677521437038.png?alt=media" alt="langchain" width="40" height="40"/></a>
-</p>
+| Project | Description | Tech Stack & Tools | Link |
+| --- | --- | --- | --- |
+| **Freelance SaaS Platform** | A complex multi-tenant application with a monorepo architecture for streamlined development and deployment. | `NestJS`, `React`, `TypeScript`, `MongoDB`, `Docker`, `Nginx` | `Private` |
+| **AI Translation Bot** | A custom AI application for real-time Sinhala-English translation, leveraging LLMs and custom lexicons. | `Python`, `LangChain`, `Ollama`, `Mistral`, `FastAPI` | `[Link to Repo](https://github.com/kaveenexe/todlymbart)` |
+| <!-- **[Your Project Name]** --> | <!-- A brief, compelling description of another key project. --> | <!-- `Flutter`, `Firebase`, `SQLite`, `Kotlin` --> | <!-- `[Link to Repo]` --> |
 
 <br>
 
-<h3 align="left">🔗 Connect with Me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/kaveenuththara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kaveenuththara_linkedin"/></a>
-  <a href="https://twitter.com/kaveen_uththara" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kaveen_uththara_twitter"/></a>
-  <a href="https://stackoverflow.com/users/12110442/kaveendev" target="_blank"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="kaveen_stackoverflow"/></a>
-  <a href="https://www.hackerrank.com/kaveenuththara" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="kaveen_hackerrank"/></a>
-  <a href="https://discord.gg/BlackAlpha#5295" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="kaveen_discord"/></a>
-</p>
+### 🛠️ My Tech Stack
+
+| Category | Skills |
+| --- | --- |
+| **Frontend** | `React.js`, `Next.js`, `HTML5`, `CSS3`, `JavaScript`, `TypeScript` |
+| **Backend** | `NestJS`, `Express.js`, `ASP.NET Core`, `Node.js` |
+| **Mobile** | `Flutter`, `Kotlin (Android)`, `Jetpack Compose` |
+| **AI / LLM** | `LangChain`, `Ollama`, `Mistral`, `mBART`, `Python`, `Custom Lexicons` |
+| **Databases** | `MongoDB`, `MySQL`, `MariaDB`, `SQLite` |
+| **Cloud & DevOps** | `AWS Lightsail`, `EC2`, `Google Cloud Run`, `Docker`, `Nginx`, `GitHub Actions` |
+| **Design Tools** | `Figma`, `Adobe XD`, `Photoshop` |
 
 <br>
 
-<h3 align="left">📊 My GitHub Stats & Activity:</h3>
+<details>
+<summary><b>📊 My GitHub Metrics</b></summary>
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaveenexe&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="kaveenexe_github_stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveenexe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true" alt="kaveenexe_top_languages" />
-  <br/>
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaveenexe&theme=tokyonight&hide_border=true" alt="kaveenexe_github_streak" />
 </p>
-
-<br>
 
 <p align="center">
   <picture>
@@ -103,9 +93,21 @@ I'm a passionate Full-Stack Software Engineer, currently freelancing and pursuin
   </picture>
 </p>
 
+</details>
 
 <br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<p align="center">
-  <small>Looking for my older projects? Visit my old <a href="https://github.com/kaveendev">GitHub Account</a>.</small>
+<br>
+### 🔗 Connect with Me
+
+<br>
+<br>
+<p align="left">
+  <a href="https://linkedin.com/in/kaveenuththara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kaveenuththara_linkedin"/></a>
+  <a href="https://twitter.com/kaveen_uththara" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kaveen_uththara_twitter"/></a>
+  <a href="https://stackoverflow.com/users/12110442/kaveendev" target="_blank"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="kaveen_stackoverflow"/></a>
+  <a href="https://www.hackerrank.com/kaveenuththara" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="kaveen_hackerrank"/></a>
 </p>
+
+
