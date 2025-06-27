@@ -12,8 +12,8 @@
 </div>
 <br>
 <i>Building intelligent applications, one line of code at a time.</i>
-<br>
-👋 Hi, I'm Kaveen, a Full-Stack Software Engineer and SLIIT Undergraduate with a deep passion for architecting complex systems and exploring the frontiers of AI.
+<br><br>
+<p>👋 Hi, I'm Kaveen, a Full-Stack Software Engineer and SLIIT Undergraduate with a deep passion for architecting complex systems and exploring the frontiers of AI.</p>
 
 ✍️ As a freelancer, I specialize in bringing ambitious ideas to life. I'm currently the lead developer on a complex project using `NestJS` and `React`, built on robust `monorepo` and `multitenant` architectures.
 
@@ -21,7 +21,7 @@
 
 💡 My philosophy is rooted in **Gamified Thinking** and **Worldbuilding**. I approach complex challenges like a game, breaking them down into solvable quests, and I build software not just as a tool, but as a complete, logical world for users to interact with. This creative-yet-structured approach allows me to build unique, real-world applications, especially in the AI/LLM space where I've developed **Sinhala-English translation models** and intelligent chatbots.
 
-🤝 I'm always open to discussing new projects, innovative ideas, or collaborating on open-source.
+<p>🤝 I'm always open to discussing new projects, innovative ideas, or collaborating on open-source.</p>
 
 <br>
 
